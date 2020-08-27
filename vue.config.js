@@ -7,6 +7,8 @@ module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
     ? './'
     : '/',
+  // 输出文件目录
+  outputDir: 'docs',
   chainWebpack: (config) => {
     config.resolve.alias
     // 第一个参数：别名 第二个参数：路径

@@ -284,4 +284,5 @@ class XXX extends Vue{
 ```
 
 获取歌曲的播放链接:getplaysongvkey根据mid获取vkey然后拼接成url`http://dl.stream.qqmusic.qq.com/${vkey}`
+
 获取歌词:getLyric根据mid获取lyric然后用js-base64的decode解码

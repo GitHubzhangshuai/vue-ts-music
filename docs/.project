@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>docs</name>
+	<name>vue-ts-music</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1598529777686</id>
+			<id>1598530169903</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
